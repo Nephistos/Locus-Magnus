@@ -49,6 +49,6 @@ Après toute modification de `index.html`, `style.css`, `app.js` ou des icônes,
 *(À compléter : voir la section dédiée lorsque vous choisirez vos licences.)*
 
 - Code : tous droits réservés pour l'instant.
-- Textes originaux (`data/mantras.json`) : © [Votre nom], tous droits réservés.
+- Textes originaux (`data/mantras.json`) : ©Emilien LECOFFRE, tous droits réservés.
 - Citations (`data/quotes.json`) : appartiennent à leurs auteurs respectifs ou relèvent du domaine public ; elles ne sont pas couvertes par les mentions ci-dessus.
 - Polices : Cormorant Garamond et Jost, sous licence SIL Open Font License 1.1 (voir `fonts/`).
