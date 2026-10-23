@@ -11,7 +11,7 @@
    (Inutile quand vous ajoutez seulement des textes.)
    ------------------------------------------------------------ */
 
-const VERSION = "v2";
+const VERSION = "v5";
 const SHELL_CACHE = `locus-shell-${VERSION}`;
 const DATA_CACHE = "locus-data";
 
@@ -59,7 +59,7 @@ self.addEventListener("fetch", (event) => {
   // Textes : réseau d'abord, cache en secours.
   if (url.pathname.includes("/data/") && url.pathname.endsWith(".json")) {
     event.respondWith(
-      fetch(request, { cache: "no-store" })
+      fetch(request.url, { cache: "no-cache" })
         .then((response) => {
           if (response.ok) {
             const copy = response.clone();

@@ -28,7 +28,7 @@ let current = null;
    Le jour où le contenu viendra d'une API, seul ce bloc changera. */
 async function getEntries() {
   const results = await Promise.allSettled(
-    SOURCES.map((url) => fetch(url).then((r) => {
+    SOURCES.map((url) => fetch(url, { cache: "no-cache" }).then((r) => {
       if (!r.ok) throw new Error(`${url} : ${r.status}`);
       return r.json();
     }))
@@ -142,6 +142,35 @@ function updateOnlineStatus() {
 }
 window.addEventListener("online", updateOnlineStatus);
 window.addEventListener("offline", updateOnlineStatus);
+
+/* ---------- Thème clair / sombre ---------- */
+
+const themeToggle = document.getElementById("theme-toggle");
+const themeMeta = document.getElementById("theme-color");
+const systemDark = window.matchMedia("(prefers-color-scheme: dark)");
+
+function savedTheme() {
+  try { return localStorage.getItem("theme"); } catch (e) { return null; }
+}
+
+function applyTheme(theme) {
+  document.documentElement.setAttribute("data-theme", theme);
+  themeMeta?.setAttribute("content", theme === "dark" ? "#0f1529" : "#b9c7d8");
+  themeToggle.setAttribute("aria-label", theme === "dark" ? "Switch to light mode" : "Switch to dark mode");
+}
+
+themeToggle.addEventListener("click", () => {
+  const next = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+  applyTheme(next);
+  try { localStorage.setItem("theme", next); } catch (e) {}
+});
+
+// Sans choix manuel, l'application suit le réglage du téléphone.
+systemDark.addEventListener("change", (e) => {
+  if (!savedTheme()) applyTheme(e.matches ? "dark" : "light");
+});
+
+applyTheme(document.documentElement.getAttribute("data-theme") || (systemDark.matches ? "dark" : "light"));
 
 /* ---------- Démarrage ---------- */
 

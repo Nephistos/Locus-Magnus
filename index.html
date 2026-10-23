@@ -8,8 +8,17 @@
 
   <!-- PWA -->
   <link rel="manifest" href="manifest.webmanifest">
-  <meta name="theme-color" content="#0f1529" media="(prefers-color-scheme: dark)">
-  <meta name="theme-color" content="#b9c7d8" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0f1529" id="theme-color">
+  <script>
+    /* Applique le thème avant l'affichage, pour éviter un flash. */
+    (function () {
+      var saved = null;
+      try { saved = localStorage.getItem("theme"); } catch (e) {}
+      var theme = saved || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      document.documentElement.setAttribute("data-theme", theme);
+      document.getElementById("theme-color").setAttribute("content", theme === "dark" ? "#0f1529" : "#b9c7d8");
+    })();
+  </script>
   <link rel="icon" href="icons/icon-192.png" type="image/png">
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="Locus Magnus">
@@ -38,6 +47,15 @@
     <footer class="ground">
       <button class="next" id="next" type="button" disabled>Next</button>
       <p class="status" id="status"></p>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch to dark mode">
+        <svg class="icon-moon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M19.5 14.2A7.8 7.8 0 1 1 9.8 4.5a6.2 6.2 0 0 0 9.7 9.7z"/>
+        </svg>
+        <svg class="icon-sun" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="4"/>
+          <path d="M12 3v2M12 19v2M3 12h2M19 12h2M5.64 5.64l1.41 1.41M16.95 16.95l1.41 1.41M5.64 18.36l1.41-1.41M16.95 7.05l1.41-1.41"/>
+        </svg>
+      </button>
     </footer>
   </main>
 

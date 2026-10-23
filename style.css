@@ -46,7 +46,8 @@
   color-scheme: light dark;
 }
 
-/* Crépuscule (thème sombre) */
+/* Crépuscule (thème sombre) : suit le téléphone par défaut,
+   ou le choix fait avec le bouton lune / soleil. */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --sky-top:  #0f1529;
@@ -58,6 +59,17 @@
     --line:     rgba(241, 236, 227, 0.32);
   }
 }
+:root[data-theme="dark"] {
+  --sky-top:  #0f1529;
+  --sky-low:  #2a3558;
+  --glow:     #b8917a;
+  --ground:   #0c1122;
+  --ink:      #f1ece3;
+  --ink-soft: #9ea7bd;
+  --line:     rgba(241, 236, 227, 0.32);
+  color-scheme: dark;
+}
+:root[data-theme="light"] { color-scheme: light; }
 
 * { box-sizing: border-box; margin: 0; }
 
@@ -88,6 +100,36 @@ body {
   padding: 1.75rem 1.5rem 0;
   text-align: center;
 }
+
+/* ---------- Bouton lune / soleil (posé sur le sol, sous « Next ») ---------- */
+
+.theme-toggle {
+  position: absolute;
+  left: 50%;
+  bottom: calc(0.75rem + env(safe-area-inset-bottom));
+  transform: translateX(-50%);
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: var(--ink-soft);
+  opacity: 0.75;
+  cursor: pointer;
+  transition: opacity 200ms ease, color 200ms ease;
+  -webkit-tap-highlight-color: transparent;
+}
+.theme-toggle:hover { opacity: 1; color: var(--ink); }
+.theme-toggle:active { opacity: 1; }
+.theme-toggle:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+
+/* Lune en mode clair (pour passer au sombre), soleil en mode sombre. */
+.theme-toggle .icon-sun { display: none; }
+:root[data-theme="dark"] .theme-toggle .icon-sun { display: block; }
+:root[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
 
 .title {
   font-family: var(--serif);
