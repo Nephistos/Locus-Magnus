@@ -2,62 +2,1497 @@
   {
     "id": "m-0001",
     "type": "mantra",
-    "text": "The sky never apologizes for being vast. Neither do I.",
+    "text": "Deal with a gremlin while it’s still small, before it multiplies.",
     "author": null,
     "lang": "en",
-    "tags": [
-      "greatness"
-    ]
+    "tags": []
   },
   {
     "id": "m-0002",
     "type": "mantra",
-    "text": "What makes me feel small today does not define me.",
+    "text": "Never underestimate the power of discipline.",
     "author": null,
     "lang": "en",
-    "tags": [
-      "confidence"
-    ]
+    "tags": []
   },
   {
     "id": "m-0003",
     "type": "mantra",
-    "text": "One step, then another. That is how vast places are crossed.",
+    "text": "Skip the sarcasm. It always costs more than it’s worth.",
     "author": null,
     "lang": "en",
-    "tags": [
-      "patience"
-    ]
+    "tags": []
   },
   {
     "id": "m-0004",
     "type": "mantra",
-    "text": "I am not late for my own life.",
+    "text": "Choose your life partner carefully. Ninety percent of your happiness, or misery, will flow from that one decision.",
     "author": null,
     "lang": "en",
-    "tags": [
-      "calm"
-    ]
+    "tags": []
   },
   {
     "id": "m-0005",
     "type": "mantra",
-    "text": "What is within my control is enough to move forward.",
+    "text": "Do kind things for people who will never find out.",
     "author": null,
     "lang": "en",
-    "tags": [
-      "stoicism"
-    ]
+    "tags": []
   },
   {
     "id": "m-0006",
     "type": "mantra",
-    "text": "I look up. The world is wider than my day.",
+    "text": "Only lend the books you’re willing to lose.",
     "author": null,
     "lang": "en",
-    "tags": [
-      "greatness",
-      "calm"
-    ]
+    "tags": []
+  },
+  {
+    "id": "m-0007",
+    "type": "mantra",
+    "text": "Never take away someone’s hope. It may be all they have.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0008",
+    "type": "mantra",
+    "text": "When you play with children, let them win.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0009",
+    "type": "mantra",
+    "text": "Give people a second chance. Not a third.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0010",
+    "type": "mantra",
+    "text": "Be romantic.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0011",
+    "type": "mantra",
+    "text": "Be the most positive, enthusiastic person you know.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0012",
+    "type": "mantra",
+    "text": "Relax. Outside the rare matters of life and death, nothing is as important as it first seems.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0013",
+    "type": "mantra",
+    "text": "Don’t let your phone interrupt the moments that matter. It’s there for your convenience, not the caller’s.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0014",
+    "type": "mantra",
+    "text": "Be a good loser.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0015",
+    "type": "mantra",
+    "text": "Be a good winner.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0016",
+    "type": "mantra",
+    "text": "Think twice before burdening a friend with a secret.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0017",
+    "type": "mantra",
+    "text": "When someone hugs you, let them be the first to let go.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0018",
+    "type": "mantra",
+    "text": "Be humble. A great deal was accomplished before you were born.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0019",
+    "type": "mantra",
+    "text": "Keep it simple.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0020",
+    "type": "mantra",
+    "text": "Beware of the person with nothing to lose.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0021",
+    "type": "mantra",
+    "text": "Don’t burn bridges. You’ll be surprised how often you have to cross the same river.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0022",
+    "type": "mantra",
+    "text": "Live so that, on your deathbed, you can say: no regrets.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0023",
+    "type": "mantra",
+    "text": "Be bold. Looking back, you’ll regret what you didn’t do far more than what you did.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0024",
+    "type": "mantra",
+    "text": "Never miss a chance to tell someone you love them.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0025",
+    "type": "mantra",
+    "text": "Be grateful to those who help you.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0026",
+    "type": "mantra",
+    "text": "Master your attitude.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0027",
+    "type": "mantra",
+    "text": "Visit the people you love when they’re in hospital.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0028",
+    "type": "mantra",
+    "text": "Start the day with your favorite music.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0029",
+    "type": "mantra",
+    "text": "Explore new places.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0030",
+    "type": "mantra",
+    "text": "Send anonymous valentines.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0031",
+    "type": "mantra",
+    "text": "Answer the phone with enthusiasm.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0032",
+    "type": "mantra",
+    "text": "Keep a pen by your bed. The best ideas arrive at night.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0033",
+    "type": "mantra",
+    "text": "Respect every worker.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0034",
+    "type": "mantra",
+    "text": "Send flowers for no reason.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0035",
+    "type": "mantra",
+    "text": "Pay for the car behind you.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0036",
+    "type": "mantra",
+    "text": "Be someone’s hero.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0037",
+    "type": "mantra",
+    "text": "Marry for love.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0038",
+    "type": "mantra",
+    "text": "Appreciate what you have.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0039",
+    "type": "mantra",
+    "text": "Always say thank you for a meal at a friend’s.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0040",
+    "type": "mantra",
+    "text": "Wave at the children on the bus.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0041",
+    "type": "mantra",
+    "text": "Succeed by treating people well.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0042",
+    "type": "mantra",
+    "text": "Accept that life isn’t always fair.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0043",
+    "type": "mantra",
+    "text": "Give at least fifteen minutes a day to each thing that matters to you.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0044",
+    "type": "mantra",
+    "text": "Your brain will never be satisfied. It will always want more.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0045",
+    "type": "mantra",
+    "text": "Always have a five-year plan.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0046",
+    "type": "mantra",
+    "text": "Never put your happiness in someone else’s hands.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0047",
+    "type": "mantra",
+    "text": "Did you do your best? Will you do everything in your power from now on? Then tearing your hair out is useless.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0048",
+    "type": "mantra",
+    "text": "Don’t be a real man. Be a good man.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0049",
+    "type": "mantra",
+    "text": "Everything is socially constructed.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0050",
+    "type": "mantra",
+    "text": "Stop hunting for the cause of your suffering.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0051",
+    "type": "mantra",
+    "text": "Be a problem solver.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0052",
+    "type": "mantra",
+    "text": "Seek discomfort. Learning follows.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0053",
+    "type": "mantra",
+    "text": "Philosophy teaches you how to live before it’s too late.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0054",
+    "type": "mantra",
+    "text": "Life rarely looks like the plan.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0055",
+    "type": "mantra",
+    "text": "Family: two days, three nights. Maximum.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0056",
+    "type": "mantra",
+    "text": "Be Obi-Wan, not Anakin.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0057",
+    "type": "mantra",
+    "text": "Go outside. Move. Eat your vegetables. Read a book. No excuses.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0058",
+    "type": "mantra",
+    "text": "Irritated, overthinking, raging? Kawotte. Hold the thread of wonder.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0059",
+    "type": "mantra",
+    "text": "Life is, in many ways, learning to be okay without everyone’s approval.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0060",
+    "type": "mantra",
+    "text": "It’s easier to love others when you love yourself.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0061",
+    "type": "mantra",
+    "text": "Live in the past and you’re depressed. Live in the future and you’re anxious. Live in the present and you’re at peace.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0062",
+    "type": "mantra",
+    "text": "Follow your gut.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0063",
+    "type": "mantra",
+    "text": "Remember that others exist: people, plants, animals.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0064",
+    "type": "mantra",
+    "text": "Nothing lives alone.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0065",
+    "type": "mantra",
+    "text": "Hold no certainties. They can turn against you. Doubt sets you free.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0066",
+    "type": "mantra",
+    "text": "There is speech, there is the word, and there is the breath: the deep meaning behind them both.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0067",
+    "type": "mantra",
+    "text": "Emptiness creates.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0068",
+    "type": "mantra",
+    "text": "Pressure makes diamonds.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0069",
+    "type": "mantra",
+    "text": "Don’t justify yourself. First ignore. Then forget.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0070",
+    "type": "mantra",
+    "text": "Malice always returns to sender.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0071",
+    "type": "mantra",
+    "text": "When emotion takes over, stay silent.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0072",
+    "type": "mantra",
+    "text": "You do your enemy too much honor when you make him larger than life.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0073",
+    "type": "mantra",
+    "text": "In every field, make your move while you’re in demand.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0074",
+    "type": "mantra",
+    "text": "Put yourself in other people’s shoes, and make their lives easier.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0075",
+    "type": "mantra",
+    "text": "The destination is often disappointing. Love the road.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0076",
+    "type": "mantra",
+    "text": "Death matters at least as much as life.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0077",
+    "type": "mantra",
+    "text": "Don’t focus on what should be. Focus on what is.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0078",
+    "type": "mantra",
+    "text": "Wealth is a state of mind.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0079",
+    "type": "mantra",
+    "text": "Wear a compliment magnet: shoes, a coat, a watch.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0080",
+    "type": "mantra",
+    "text": "See your life as a series of chapters, each one shaping your story.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0081",
+    "type": "mantra",
+    "text": "Play dumber than you are, and you’ll see people as they really are.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0082",
+    "type": "mantra",
+    "text": "Nothing matters. We may be living in a simulation. Enjoy.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0083",
+    "type": "mantra",
+    "text": "Collaborate. Don’t compete.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0084",
+    "type": "mantra",
+    "text": "Certainty is a good indicator of idiocy.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0085",
+    "type": "mantra",
+    "text": "My only certainty: I am always the student.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0086",
+    "type": "mantra",
+    "text": "Free yourself from the clock. Life’s big things come in no set order. Everyone has their own pace. Comparing is just ego.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0087",
+    "type": "mantra",
+    "text": "Odysseus weeps on Calypso’s island.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0088",
+    "type": "mantra",
+    "text": "The universe aligns when you start walking your own path.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0089",
+    "type": "mantra",
+    "text": "Turn motivation into action, then action into habit.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0090",
+    "type": "mantra",
+    "text": "Think before you speak. Then think again.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0091",
+    "type": "mantra",
+    "text": "There is NEVER only one truth, or one interpretation.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0092",
+    "type": "mantra",
+    "text": "Even time is an illusion.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0093",
+    "type": "mantra",
+    "text": "At the edge of what we know, science comes close to suggesting metaphysics.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0094",
+    "type": "mantra",
+    "text": "Take the path of least resistance.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0095",
+    "type": "mantra",
+    "text": "Stand tall. Feet parallel. Charisma follows.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0096",
+    "type": "mantra",
+    "text": "Celebrate the moments that matter.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0097",
+    "type": "mantra",
+    "text": "Instead of reacting, take thirty seconds to observe your emotion, and how it shows up in your body.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0098",
+    "type": "mantra",
+    "text": "Some disasters turn out to be blessings.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0099",
+    "type": "mantra",
+    "text": "Stop seeing yourself as an unfinished version of your full potential.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0100",
+    "type": "mantra",
+    "text": "Life sculpts you, not the other way around.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0101",
+    "type": "mantra",
+    "text": "Breathe in deeply. A little more. Now breathe out, slowly.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0102",
+    "type": "mantra",
+    "text": "You’re not inside other people’s heads. You don’t know why they act as they do. Getting upset about it is a disservice to yourself.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0103",
+    "type": "mantra",
+    "text": "Don’t get stuck on a local maximum.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0104",
+    "type": "mantra",
+    "text": "Don’t let yourself be locked in a Skinner box.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0105",
+    "type": "mantra",
+    "text": "Balekouillism: the fine art of not giving a damn.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0106",
+    "type": "mantra",
+    "text": "If it’s out of your hands, it should be out of your mind.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0107",
+    "type": "mantra",
+    "text": "What irritates you is rarely its real cause.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0108",
+    "type": "mantra",
+    "text": "Your identity is impermanent: hormones, mood, sleep.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0109",
+    "type": "mantra",
+    "text": "Don’t build yourself on your shadow self.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0110",
+    "type": "mantra",
+    "text": "Amor fati: love your fate.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0111",
+    "type": "mantra",
+    "text": "You’re worth more than FC Rosé.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0112",
+    "type": "mantra",
+    "text": "The voice in your head is a false self, the self of the shadow.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0113",
+    "type": "mantra",
+    "text": "Only you give words their meaning. So there’s no point taking offense.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0114",
+    "type": "mantra",
+    "text": "Don’t relive your past. Rework it, creatively.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0115",
+    "type": "mantra",
+    "text": "Impermanence: everything changes, nothing lasts.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0116",
+    "type": "mantra",
+    "text": "When you’re doing the dishes, do the dishes.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0117",
+    "type": "mantra",
+    "text": "Stay curious: watch, listen, engage.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0118",
+    "type": "mantra",
+    "text": "Expand your surface of luck.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0119",
+    "type": "mantra",
+    "text": "You are NOT outside of nature.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0120",
+    "type": "mantra",
+    "text": "More is lost through indecision than through wrong decisions.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0121",
+    "type": "mantra",
+    "text": "Don’t stay captive to the voice that talks in your head on its own.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0122",
+    "type": "mantra",
+    "text": "The mind is a machine built for analysis and survival.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0123",
+    "type": "mantra",
+    "text": "When you’re beside yourself, come back to yourself, through wonder.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0124",
+    "type": "mantra",
+    "text": "In turbulence, ask: what is happening inside me?",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0125",
+    "type": "mantra",
+    "text": "The mind mostly seeks to avoid fear, abandonment, loneliness and pain. It is not looking for happiness, joy or love.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0126",
+    "type": "mantra",
+    "text": "Be radical in your non-radicality.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0127",
+    "type": "mantra",
+    "text": "Whatever you do, you will be criticized.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0128",
+    "type": "mantra",
+    "text": "Never take criticism from someone you wouldn’t take advice from.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0129",
+    "type": "mantra",
+    "text": "Never treat people like fools. But never forget that they can be.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0130",
+    "type": "mantra",
+    "text": "Stay calm.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0131",
+    "type": "mantra",
+    "text": "Think logotherapy: find the meaning.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0132",
+    "type": "mantra",
+    "text": "You can’t please everyone.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0133",
+    "type": "mantra",
+    "text": "Personal achievement is not self-realization.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0134",
+    "type": "mantra",
+    "text": "The body is the hinge between your inner light and the physical world.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0135",
+    "type": "mantra",
+    "text": "Listen with your whole body.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0136",
+    "type": "mantra",
+    "text": "Ask yourself: is stressing useful right now?",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0137",
+    "type": "mantra",
+    "text": "The more things I add to my life, the less life there is in them.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0138",
+    "type": "mantra",
+    "text": "Thoughts are like clouds. Caught inside one, you get soaked by the storm.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0139",
+    "type": "mantra",
+    "text": "Don’t live under the tyranny of other people’s gaze and the need for recognition.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0140",
+    "type": "mantra",
+    "text": "Fulfillment is harmony between me and I. Bliss is harmony between me and the Whole. The first asks you to release your frustrations; the second, to realize yourself.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0141",
+    "type": "mantra",
+    "text": "Don’t let emotional fatigue swallow your relationships.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0142",
+    "type": "mantra",
+    "text": "Don’t ride in the passenger seat of your own life.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0143",
+    "type": "mantra",
+    "text": "What trades control for comfort? A dog.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0144",
+    "type": "mantra",
+    "text": "The anger you hold onto turns you into the person who gave it to you.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0145",
+    "type": "mantra",
+    "text": "Death is always closer than you think.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0146",
+    "type": "mantra",
+    "text": "Remember Bach’s two voices: the short term and the long term, playing at once.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0147",
+    "type": "mantra",
+    "text": "Don’t retreat into the comfort of your own judgment.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0148",
+    "type": "mantra",
+    "text": "You don’t need to make others bad to convince yourself you’re good. If you don’t enjoy the party, it’s not that the music is bad and the people are stupid. You just don’t dare to dance.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0149",
+    "type": "mantra",
+    "text": "Kawotte: attention, here and now!",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0150",
+    "type": "mantra",
+    "text": "Being kind to strangers is image management. The real test is at home.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0151",
+    "type": "mantra",
+    "text": "If someone has a problem with you, tell them to text you. If they don’t have your number, they don’t know you well enough to have a problem with you.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0152",
+    "type": "mantra",
+    "text": "If you need a relationship that badly to live, it’s because you can’t bear living alone with yourself.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0153",
+    "type": "mantra",
+    "text": "While you doubt yourself, someone is wondering how you do it.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0154",
+    "type": "mantra",
+    "text": "The ego speaks through the inner warrior, the inner child or the shadow. Name which one is talking, and its story falls apart.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0155",
+    "type": "mantra",
+    "text": "Your brain would rather stress you for nothing than risk missing a danger.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0156",
+    "type": "mantra",
+    "text": "When you get bitten, remember the snake.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0157",
+    "type": "mantra",
+    "text": "Whatever you gain, you were meant to gain. Whatever you lose, you were meant to lose. You are on a great journey to see beyond your own illusions.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0158",
+    "type": "mantra",
+    "text": "Try to understand everything, and you end up questioning everything.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0159",
+    "type": "mantra",
+    "text": "At the end of your life, only one question will remain: did you truly love?",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0160",
+    "type": "mantra",
+    "text": "Your body is always listening to your thoughts.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0161",
+    "type": "mantra",
+    "text": "Stop sacrificing your present for an imaginary future.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0162",
+    "type": "mantra",
+    "text": "Life is constant rebirth, like the ship of Theseus. In a way, that softens the pain of death.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0163",
+    "type": "mantra",
+    "text": "That’s not impostor syndrome. It’s an old image of yourself that no longer matches who you are.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0164",
+    "type": "mantra",
+    "text": "Don’t play the game of simplified values: views, money, stats.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0165",
+    "type": "mantra",
+    "text": "Go with the flow, like Jack Sparrow.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0166",
+    "type": "mantra",
+    "text": "Don’t take your emotions too seriously.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0167",
+    "type": "mantra",
+    "text": "Separate what you feel from the story you tell yourself about it.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0168",
+    "type": "mantra",
+    "text": "Ask where an emotion comes from: is it original, or a reaction born of defense or vanity?",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0169",
+    "type": "mantra",
+    "text": "Ask of every emotion: does it serve life, or cut me off from what is real?",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0170",
+    "type": "mantra",
+    "text": "Don’t make plans for immortality.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0171",
+    "type": "mantra",
+    "text": "Success often comes unexpectedly.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0172",
+    "type": "mantra",
+    "text": "You are not defined by what you’ve endured, but by what you do.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0173",
+    "type": "mantra",
+    "text": "Ask what kind of man you are, not what the world thinks of you.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0174",
+    "type": "mantra",
+    "text": "Direction matters more than time.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0175",
+    "type": "mantra",
+    "text": "Covetousness is the mother of all sins.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0176",
+    "type": "mantra",
+    "text": "Time doesn’t need your worries to do its work.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0177",
+    "type": "mantra",
+    "text": "It’s easier to keep up than to catch up.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0178",
+    "type": "mantra",
+    "text": "Arrogance is usually a sign of missing talent.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0179",
+    "type": "mantra",
+    "text": "Never chase anyone’s validation. Ever.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0180",
+    "type": "mantra",
+    "text": "People who bully you at work are usually losing at home.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0181",
+    "type": "mantra",
+    "text": "Your brain plays tricks on you to escape discomfort.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0182",
+    "type": "mantra",
+    "text": "You make someone laugh by telling a joke, not by ordering them to laugh. Love and happiness work the same way: you can’t command them, only create the conditions for them to appear.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0183",
+    "type": "mantra",
+    "text": "The highest form of intelligence is knowing when to use it, instead of carrying it everywhere like a burden.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0184",
+    "type": "mantra",
+    "text": "Don’t play not to lose.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0185",
+    "type": "mantra",
+    "text": "If you do what you’ve always done, you’ll get what you’ve always gotten.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0186",
+    "type": "mantra",
+    "text": "Even FOMO doesn’t exist.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0187",
+    "type": "mantra",
+    "text": "When it’s too easy, there’s a catch.",
+    "author": null,
+    "lang": "en",
+    "tags": []
   }
 ]

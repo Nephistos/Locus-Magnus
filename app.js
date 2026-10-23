@@ -95,6 +95,7 @@ function render(entry, isToday) {
   const p = document.createElement("p");
   p.textContent = entry.text;
   els.text.replaceChildren(p);
+  els.text.classList.toggle("is-long", entry.text.length > 150);
 
   els.author.textContent = entry.author ? entry.author : "";
   current = entry;

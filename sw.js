@@ -11,7 +11,7 @@
    (Inutile quand vous ajoutez seulement des textes.)
    ------------------------------------------------------------ */
 
-const VERSION = "v1";
+const VERSION = "v2";
 const SHELL_CACHE = `locus-shell-${VERSION}`;
 const DATA_CACHE = "locus-data";
 

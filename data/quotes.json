@@ -2,139 +2,1114 @@
   {
     "id": "q-0001",
     "type": "quote",
-    "text": "Man is only a reed, the weakest in nature; but he is a thinking reed.",
-    "author": "Blaise Pascal",
-    "source": "Pensées",
+    "text": "Insanity is doing the same thing over and over again and expecting different results.",
+    "author": "Narcotics Anonymous",
+    "source": "Basic Text (1981)",
     "lang": "en",
-    "tags": [
-      "greatness",
-      "fragility"
-    ]
+    "note": "Often attributed to Albert Einstein; there is no evidence he said it.",
+    "tags": []
   },
   {
     "id": "q-0002",
     "type": "quote",
-    "text": "The greatness of man is great in that he knows himself to be miserable.",
-    "author": "Blaise Pascal",
-    "source": "Pensées",
+    "text": "If you gaze long into an abyss, the abyss also gazes into you.",
+    "author": "Friedrich Nietzsche",
+    "source": "Beyond Good and Evil",
     "lang": "en",
-    "tags": [
-      "greatness"
-    ]
+    "tags": []
   },
   {
     "id": "q-0003",
+    "type": "quote",
+    "text": "Genius lies in the instincts.",
+    "author": "Friedrich Nietzsche",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; no verified source found.",
+    "tags": []
+  },
+  {
+    "id": "q-0004",
+    "type": "quote",
+    "text": "To probe the abyss of human motives is to expose yourself as a human being, and to risk discovering that we are not as “moral” as we had hoped.",
+    "author": "Florian Cova",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0005",
+    "type": "quote",
+    "text": "Everybody makes mistakes. That’s why they put erasers on pencils.",
+    "author": "The Simpsons",
+    "source": null,
+    "lang": "en",
+    "note": "Often credited to Bart Simpson; check which character says it.",
+    "tags": []
+  },
+  {
+    "id": "q-0006",
+    "type": "quote",
+    "text": "If you call a psychic and she doesn’t pick up before it rings, hang up.",
+    "author": "Jean-Claude Van Damme",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; no verified source found. Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0007",
+    "type": "quote",
+    "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+    "author": "Henry Thomas Buckle",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed. Often credited to Socrates or Eleanor Roosevelt, without evidence.",
+    "tags": []
+  },
+  {
+    "id": "q-0008",
+    "type": "quote",
+    "text": "Weak people seek revenge. Strong people forgive. Intelligent people ignore.",
+    "author": "Unknown",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to Albert Einstein; no evidence he said it.",
+    "tags": []
+  },
+  {
+    "id": "q-0009",
+    "type": "quote",
+    "text": "The superior man is modest in his speech, but exceeds in his actions.",
+    "author": "Confucius",
+    "source": "Analects",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0010",
+    "type": "quote",
+    "text": "I have learned much from my teachers, more from my colleagues, and most of all from my students.",
+    "author": "The Talmud",
+    "source": "Ta’anit 7a",
+    "lang": "en",
+    "note": "Replaces a looser line about learning by teaching.",
+    "tags": []
+  },
+  {
+    "id": "q-0011",
+    "type": "quote",
+    "text": "Victory breeds hatred, for the conquered is unhappy. He who has given up both victory and defeat, he, the contented, is happy.",
+    "author": "The Buddha",
+    "source": "Dhammapada",
+    "lang": "en",
+    "note": "Closest canonical text to the line “to win, stop conquering”.",
+    "tags": []
+  },
+  {
+    "id": "q-0012",
+    "type": "quote",
+    "text": "What the superior man seeks is in himself. What the mean man seeks is in others.",
+    "author": "Confucius",
+    "source": "Analects",
+    "lang": "en",
+    "note": "Often attributed to Marcus Aurelius; the idea comes from Confucius.",
+    "tags": []
+  },
+  {
+    "id": "q-0013",
+    "type": "quote",
+    "text": "We wage war on each other while we’re standing on a rock drifting through space. We’re idiots.",
+    "author": "Alain Chabat",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0014",
+    "type": "quote",
+    "text": "Until you make the unconscious conscious, it will direct your life and you will call it fate.",
+    "author": "Carl Jung",
+    "source": null,
+    "lang": "en",
+    "note": "Popular paraphrase of a passage in Aion.",
+    "tags": []
+  },
+  {
+    "id": "q-0015",
+    "type": "quote",
+    "text": "If you hate a person, then you are defeated by them.",
+    "author": "Unknown",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to Confucius; not found in his works.",
+    "tags": []
+  },
+  {
+    "id": "q-0016",
+    "type": "quote",
+    "text": "Holding onto anger is like drinking poison and expecting the other person to die.",
+    "author": "Unknown",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to the Buddha; not found in Buddhist texts.",
+    "tags": []
+  },
+  {
+    "id": "q-0017",
+    "type": "quote",
+    "text": "Everything that irritates us about others can lead us to an understanding of ourselves.",
+    "author": "Carl Jung",
+    "source": "Memories, Dreams, Reflections",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0018",
+    "type": "quote",
+    "text": "When someone offends you, they take your negative energy and give you their positive energy.",
+    "author": "Unknown",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to Confucius; not found in his works.",
+    "tags": []
+  },
+  {
+    "id": "q-0019",
+    "type": "quote",
+    "text": "Men of profound thought appear to themselves, in their dealings with others, like actors: to be understood, they must always simulate superficiality.",
+    "author": "Friedrich Nietzsche",
+    "source": "Human, All Too Human",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0020",
+    "type": "quote",
+    "text": "The healthy man does not torture others. Generally, it is the tortured who turn into torturers.",
+    "author": "Carl Jung",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0021",
+    "type": "quote",
+    "text": "Cruelty is the remedy for wounded pride.",
+    "author": "Friedrich Nietzsche",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; no verified source found.",
+    "tags": []
+  },
+  {
+    "id": "q-0022",
+    "type": "quote",
+    "text": "The vanity of others offends our taste only when it runs counter to our own vanity.",
+    "author": "Friedrich Nietzsche",
+    "source": "Beyond Good and Evil",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0023",
+    "type": "quote",
+    "text": "Wholeness is not achieved by cutting off a portion of one’s being, but by integration of the contraries.",
+    "author": "Carl Jung",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0024",
+    "type": "quote",
+    "text": "The word “happy” would lose its meaning if it were not balanced by sadness.",
+    "author": "Carl Jung",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0025",
+    "type": "quote",
+    "text": "Children are educated by what the grown-up is, and not by his talk.",
+    "author": "Carl Jung",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0026",
+    "type": "quote",
+    "text": "The greatest tragedy of the family is the unlived lives of the parents.",
+    "author": "Carl Jung",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; no verified source found.",
+    "tags": []
+  },
+  {
+    "id": "q-0027",
+    "type": "quote",
+    "text": "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
+    "author": "Carl Jung",
+    "source": "Modern Man in Search of a Soul",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0028",
+    "type": "quote",
+    "text": "We are born at a given moment, in a given place, and like vintage years of wine, we have the qualities of the year and of the season in which we are born.",
+    "author": "Carl Jung",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0029",
+    "type": "quote",
+    "text": "Midlife is the moment to let go of an overgrown ego and to contemplate the deeper meaning of human existence.",
+    "author": "Carl Jung",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; no verified source found.",
+    "tags": []
+  },
+  {
+    "id": "q-0030",
+    "type": "quote",
+    "text": "Every form of addiction is bad, no matter whether the narcotic be alcohol, morphine or idealism.",
+    "author": "Carl Jung",
+    "source": "Memories, Dreams, Reflections",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0031",
+    "type": "quote",
+    "text": "People grow like plants, some in the light, others in the shade. Many need shade, not light.",
+    "author": "Carl Jung",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; no verified source found.",
+    "tags": []
+  },
+  {
+    "id": "q-0032",
+    "type": "quote",
+    "text": "If you live according to an example, you live the life of that example. But who should live your own life if not yourself?",
+    "author": "Carl Jung",
+    "source": "The Red Book",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0033",
+    "type": "quote",
+    "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to Albert Einstein; it is Edison’s.",
+    "tags": []
+  },
+  {
+    "id": "q-0034",
+    "type": "quote",
+    "text": "Wonder is morality in action.",
+    "author": "Bertrand Vergely",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0035",
+    "type": "quote",
+    "text": "“You French fight for money, while we English fight for honour.” “Each of us fights for what he lacks.”",
+    "author": "Robert Surcouf",
+    "source": null,
+    "lang": "en",
+    "note": "Usually credited to Napoleon; the exchange is Surcouf’s, and the roles are the other way round.",
+    "tags": []
+  },
+  {
+    "id": "q-0036",
+    "type": "quote",
+    "text": "The stone makes the sculptor, and the sculptor makes the stone. Without stone, there is no sculptor.",
+    "author": "Unknown",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0037",
+    "type": "quote",
+    "text": "In the end, one loves one’s desire and not what is desired.",
+    "author": "Friedrich Nietzsche",
+    "source": "Beyond Good and Evil",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0038",
+    "type": "quote",
+    "text": "Give them nothing. Rather, take part of their load and carry it along with them.",
+    "author": "Friedrich Nietzsche",
+    "source": "Thus Spoke Zarathustra",
+    "lang": "en",
+    "note": "Closest text to “to help humanity, take something away”.",
+    "tags": []
+  },
+  {
+    "id": "q-0039",
+    "type": "quote",
+    "text": "There is infinity within limits.",
+    "author": "Bertrand Vergely",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0040",
+    "type": "quote",
+    "text": "Whoever can bear nothing suffers, and makes others suffer.",
+    "author": "Bertrand Vergely",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0041",
+    "type": "quote",
+    "text": "There are tyrants because there are slaves.",
+    "author": "Friedrich Nietzsche",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; no verified source found.",
+    "tags": []
+  },
+  {
+    "id": "q-0042",
+    "type": "quote",
+    "text": "I will forgive you every sin but one: believing you are not of royal lineage.",
+    "author": "Hasidic saying",
+    "source": null,
+    "lang": "en",
+    "note": "Listed as the Talmud in the original; the idea is closer to Rabbi Shlomo of Karlin.",
+    "tags": []
+  },
+  {
+    "id": "q-0043",
+    "type": "quote",
+    "text": "When we have failed in life and are unhappy with ourselves, we may be tempted to make others fail, as revenge.",
+    "author": "Bertrand Vergely",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0044",
+    "type": "quote",
+    "text": "Adversity is the rent we pay for being alive.",
+    "author": "Christophe André",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0045",
+    "type": "quote",
+    "text": "Thought and speech are the same; only the former is a silent inner conversation of the soul with itself.",
+    "author": "Plato",
+    "source": "Sophist",
+    "lang": "en",
+    "note": "Closest text to “Logos is the dialogue of the soul with the soul”.",
+    "tags": []
+  },
+  {
+    "id": "q-0046",
+    "type": "quote",
+    "text": "Forgive your enemies, but never forget their names.",
+    "author": "John F. Kennedy",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; no verified source found.",
+    "tags": []
+  },
+  {
+    "id": "q-0047",
+    "type": "quote",
+    "text": "Perhaps our most urgent duty is never to let go of the thread of wonder. Holding it, I will come out alive from the darkest labyrinth.",
+    "author": "Christiane Singer",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0048",
+    "type": "quote",
+    "text": "What’s your mother’s ROI?",
+    "author": "Unknown",
+    "source": null,
+    "lang": "en",
+    "note": "Kept as written; review whether it belongs here.",
+    "tags": []
+  },
+  {
+    "id": "q-0049",
+    "type": "quote",
+    "text": "It is possible to commit no mistakes and still lose. That is not a weakness; that is life.",
+    "author": "Jean-Luc Picard",
+    "source": "Star Trek: The Next Generation",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0050",
+    "type": "quote",
+    "text": "Psychological suffering takes shape according to the place, culture, era and society in which it occurs.",
+    "author": "Sylvie Wieviorka",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0051",
+    "type": "quote",
+    "text": "Imagine being bitten by a snake and, instead of healing from the poison, chasing the snake to understand why it bit you and to prove you didn’t deserve it.",
+    "author": "Unknown",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0052",
+    "type": "quote",
+    "text": "All we have to decide is what to do with the time that is given us.",
+    "author": "Gandalf",
+    "source": "The Fellowship of the Ring",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0053",
+    "type": "quote",
+    "text": "Go home, cook yourself a good meal, and make love to your wife.",
+    "author": "Mark Antony",
+    "source": "Rome (HBO)",
+    "lang": "en",
+    "note": "Unverified; check the episode.",
+    "tags": []
+  },
+  {
+    "id": "q-0054",
+    "type": "quote",
+    "text": "Tell yourself it is part of your personal experience, that you came into the world to live it, and that the meaning of your life is to rise above it by growing.",
+    "author": "Anonymous Redditor",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0055",
+    "type": "quote",
+    "text": "A man with a wife and two daughters shouldn’t be quick to anger. He’s a fool.",
+    "author": "Druss",
+    "source": "David Gemmell, Legend",
+    "lang": "en",
+    "note": "Translated from the French edition; check the original wording.",
+    "tags": []
+  },
+  {
+    "id": "q-0056",
+    "type": "quote",
+    "text": "Absolutely no one is immune to propaganda. If you think you are, you are exactly the person propaganda works best on. It’s important to regularly reevaluate your own mental state.",
+    "author": "Josh Strife Hayes",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0057",
+    "type": "quote",
+    "text": "Taking something useless seriously is one of the noblest things a human being can do.",
+    "author": "Alexandre Astier",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0058",
+    "type": "quote",
+    "text": "It’s kind of like how Jesus died for everybody else’s sins.",
+    "author": "Asmongold",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0059",
+    "type": "quote",
+    "text": "It’s not a joke if not everyone is laughing.",
+    "author": "Josh Strife Hayes",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0060",
+    "type": "quote",
+    "text": "They may forget what you said, but they will never forget how you made them feel.",
+    "author": "Carl W. Buehner",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to Maya Angelou; earliest known source is Buehner.",
+    "tags": []
+  },
+  {
+    "id": "q-0061",
+    "type": "quote",
+    "text": "I did everything against it, and nothing for it.",
+    "author": "Johnny Hallyday",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0062",
+    "type": "quote",
+    "text": "The task is not so much to see what no one has yet seen, but to think what nobody has yet thought about that which everybody sees.",
+    "author": "Arthur Schopenhauer",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0063",
+    "type": "quote",
+    "text": "All sunshine makes a desert.",
+    "author": "Arab proverb",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0064",
+    "type": "quote",
+    "text": "Sometimes when you’re in a dark place, you think you’ve been buried. But actually, you’ve been planted.",
+    "author": "Christine Caine",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; widely shared without a source.",
+    "tags": []
+  },
+  {
+    "id": "q-0065",
+    "type": "quote",
+    "text": "To philosophize is to learn to die.",
+    "author": "Michel de Montaigne",
+    "source": "Essays",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0066",
+    "type": "quote",
+    "text": "Genius is the meeting of an intelligence with the problems of its time.",
+    "author": "Étienne Klein",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0067",
+    "type": "quote",
+    "text": "We do not see things as they are, we see them as we are.",
+    "author": "Anaïs Nin",
+    "source": "Seduction of the Minotaur",
+    "lang": "en",
+    "note": "Often attributed to Kant or the Talmud.",
+    "tags": []
+  },
+  {
+    "id": "q-0068",
     "type": "quote",
     "text": "Men are disturbed not by the things which happen, but by the opinions about the things.",
     "author": "Epictetus",
     "source": "Enchiridion",
     "lang": "en",
-    "tags": [
-      "stoicism",
-      "calm"
-    ]
+    "tags": []
   },
   {
-    "id": "q-0004",
+    "id": "q-0069",
+    "type": "quote",
+    "text": "Be kind, for everyone you meet is fighting a hard battle.",
+    "author": "Ian Maclaren",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to Robin Williams or Plato.",
+    "tags": []
+  },
+  {
+    "id": "q-0070",
+    "type": "quote",
+    "text": "The mind is like a garden: if you don’t plant flowers, weeds will grow.",
+    "author": "Unknown",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to Victor Hugo; not found in his works.",
+    "tags": []
+  },
+  {
+    "id": "q-0071",
+    "type": "quote",
+    "text": "It takes the whole of life to learn how to live.",
+    "author": "Seneca",
+    "source": "On the Shortness of Life",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0072",
+    "type": "quote",
+    "text": "The “wise old man” they imagine they are consulting is in fact only old, and not wise.",
+    "author": "Bernard Ollivier",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0073",
+    "type": "quote",
+    "text": "Before you speak, let your words pass through three gates: Is it true? Is it necessary? Is it kind?",
+    "author": "Sufi saying",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to the Buddha; not found in Buddhist texts.",
+    "tags": []
+  },
+  {
+    "id": "q-0074",
+    "type": "quote",
+    "text": "The happiest of all lives is a busy solitude.",
+    "author": "Voltaire",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0075",
+    "type": "quote",
+    "text": "Children begin by loving their parents; after a time they judge them; rarely, if ever, do they forgive them.",
+    "author": "Oscar Wilde",
+    "source": "A Woman of No Importance",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0076",
+    "type": "quote",
+    "text": "Childhood is when you love your parents. Adolescence is when you judge them. Adulthood is when you forgive them.",
+    "author": "André Comte-Sponville",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0077",
+    "type": "quote",
+    "text": "In this world there are only two tragedies. One is not getting what one wants, and the other is getting it.",
+    "author": "Oscar Wilde",
+    "source": "Lady Windermere’s Fan",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0078",
+    "type": "quote",
+    "text": "What matters is not what I do, but who I become.",
+    "author": "Pierre David",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0079",
+    "type": "quote",
+    "text": "The meaning of life is to be enchanted by being alive, through the difficulties.",
+    "author": "Thomas d’Ansembourg",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0080",
+    "type": "quote",
+    "text": "Many people have lost the savor of life because they run far too fast.",
+    "author": "Thomas d’Ansembourg",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French. Shortened from a longer passage.",
+    "tags": []
+  },
+  {
+    "id": "q-0081",
+    "type": "quote",
+    "text": "“If I do well, you love me well. If I do well and a lot, you love me well and a lot.” And off we go: it’s encoded.",
+    "author": "Thomas d’Ansembourg",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French. Shortened from a longer passage.",
+    "tags": []
+  },
+  {
+    "id": "q-0082",
+    "type": "quote",
+    "text": "Every creative act delights and enchants us.",
+    "author": "Thomas d’Ansembourg",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0083",
+    "type": "quote",
+    "text": "Connection first, results second.",
+    "author": "Thomas d’Ansembourg",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0084",
+    "type": "quote",
+    "text": "I am all other men; every man is all men.",
+    "author": "Arthur Schopenhauer",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; no verified source found. The line also echoes Borges.",
+    "tags": []
+  },
+  {
+    "id": "q-0085",
+    "type": "quote",
+    "text": "I’ve met people who are truly good. Do you know what they all have in common? They’re all kind. So when you read something that isn’t, its author isn’t good. He just wishes he were.",
+    "author": "Alexandre Astier",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0086",
+    "type": "quote",
+    "text": "He who sees too much ends up fitting nowhere.",
+    "author": "Friedrich Nietzsche",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; no verified source found.",
+    "tags": []
+  },
+  {
+    "id": "q-0087",
+    "type": "quote",
+    "text": "You don’t need to give the same attitude.",
+    "author": "Dear Dinah",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0088",
+    "type": "quote",
+    "text": "He who fears he shall suffer already suffers what he fears.",
+    "author": "Michel de Montaigne",
+    "source": "Essays",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0089",
+    "type": "quote",
+    "text": "No tree, it is said, can grow to heaven unless its roots reach down to hell.",
+    "author": "Carl Jung",
+    "source": "Aion",
+    "lang": "en",
+    "note": "Often attributed to Nietzsche, whose Zarathustra has a similar image.",
+    "tags": []
+  },
+  {
+    "id": "q-0090",
+    "type": "quote",
+    "text": "The deepest form of slavery is the hunger to be understood.",
+    "author": "Fyodor Dostoevsky",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; no verified source found.",
+    "tags": []
+  },
+  {
+    "id": "q-0091",
+    "type": "quote",
+    "text": "You can love playing without the result defining your whole life.",
+    "author": "Laganne",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French.",
+    "tags": []
+  },
+  {
+    "id": "q-0092",
+    "type": "quote",
+    "text": "If you see life as it is and enlightenment as one, you are in the truth. If you seek an enlightenment other than life as it is, you are in illusion.",
+    "author": "Swami Prajnanpad",
+    "source": null,
+    "lang": "en",
+    "note": "Translated from French. One of three variants kept.",
+    "tags": []
+  },
+  {
+    "id": "q-0093",
+    "type": "quote",
+    "text": "If someone wrongs you, do not seek revenge. Sit by the river, and soon you will see their body float by.",
+    "author": "Unknown",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to Lao Tzu or Confucius; not found in their works.",
+    "tags": []
+  },
+  {
+    "id": "q-0094",
+    "type": "quote",
+    "text": "Do not disturb yourself by thinking of the whole of your life.",
+    "author": "Marcus Aurelius",
+    "source": "Meditations",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0095",
+    "type": "quote",
+    "text": "Love only what happens to you and is spun with the thread of your destiny. For what could suit you better?",
+    "author": "Marcus Aurelius",
+    "source": "Meditations",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0096",
     "type": "quote",
     "text": "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.",
     "author": "Epictetus",
     "source": "Enchiridion",
     "lang": "en",
-    "tags": [
-      "stoicism",
-      "acceptance"
-    ]
+    "tags": []
   },
   {
-    "id": "q-0005",
+    "id": "q-0097",
     "type": "quote",
-    "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
-    "author": "Seneca",
-    "source": "Letters to Lucilius",
+    "text": "The more conscious we become, the more desperate we become.",
+    "author": "Arthur Schopenhauer",
+    "source": null,
     "lang": "en",
-    "tags": [
-      "courage"
-    ]
+    "note": "Attributed; no verified source found.",
+    "tags": []
   },
   {
-    "id": "q-0006",
+    "id": "q-0098",
     "type": "quote",
-    "text": "While we are postponing, life speeds by.",
-    "author": "Seneca",
-    "source": "Letters to Lucilius",
+    "text": "Sin feels like freedom, until you try to stop.",
+    "author": "Unknown",
+    "source": null,
     "lang": "en",
-    "tags": [
-      "time",
-      "memento mori"
-    ]
+    "tags": []
   },
   {
-    "id": "q-0007",
+    "id": "q-0099",
     "type": "quote",
-    "text": "Do not act as if you were going to live ten thousand years.",
-    "author": "Marcus Aurelius",
-    "source": "Meditations",
-    "lang": "en",
-    "tags": [
-      "memento mori"
-    ]
-  },
-  {
-    "id": "q-0008",
-    "type": "quote",
-    "text": "Look within. Within is the fountain of good, and it will ever bubble up, if you will ever dig.",
-    "author": "Marcus Aurelius",
-    "source": "Meditations",
-    "lang": "en",
-    "tags": [
-      "inner life"
-    ]
-  },
-  {
-    "id": "q-0009",
-    "type": "quote",
-    "text": "My formula for greatness in man is amor fati.",
-    "author": "Friedrich Nietzsche",
-    "source": "Ecce Homo",
-    "lang": "en",
-    "tags": [
-      "amor fati",
-      "greatness"
-    ]
-  },
-  {
-    "id": "q-0010",
-    "type": "quote",
-    "text": "The greatest thing in the world is to know how to belong to oneself.",
+    "text": "Upon the highest throne in the world, we are still sitting on our own backside.",
     "author": "Michel de Montaigne",
     "source": "Essays",
     "lang": "en",
-    "tags": [
-      "freedom"
-    ]
+    "tags": []
   },
   {
-    "id": "q-0011",
+    "id": "q-0100",
     "type": "quote",
-    "text": "Two things fill the mind with ever new and increasing admiration and awe: the starry heavens above and the moral law within.",
-    "author": "Immanuel Kant",
-    "source": "Critique of Practical Reason",
+    "text": "The desert teaches you more about water than the ocean does.",
+    "author": "Unknown",
+    "source": null,
     "lang": "en",
-    "tags": [
-      "sky",
-      "greatness"
-    ]
+    "note": "Often attributed to Marcus Aurelius; not found in the Meditations.",
+    "tags": []
   },
   {
-    "id": "q-0012",
+    "id": "q-0101",
     "type": "quote",
-    "text": "Those who live are those who fight.",
-    "author": "Victor Hugo",
-    "source": "Les Châtiments",
+    "text": "The less talent they have, the more pride, vanity and arrogance. Yet all these fools find other fools to applaud them.",
+    "author": "Erasmus",
+    "source": null,
     "lang": "en",
-    "tags": [
-      "courage"
-    ]
+    "note": "Attributed; no verified source found.",
+    "tags": []
+  },
+  {
+    "id": "q-0102",
+    "type": "quote",
+    "text": "I did not conquer half the world by listening to men who had conquered nothing.",
+    "author": "Unknown",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to Alexander the Great; no ancient source.",
+    "tags": []
+  },
+  {
+    "id": "q-0103",
+    "type": "quote",
+    "text": "As much as we thirst for approval, we dread condemnation.",
+    "author": "Hans Selye",
+    "source": "Stress Without Distress",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0104",
+    "type": "quote",
+    "text": "If your identity can be inflated by praise, it can be shattered by criticism. Neither deserves that authority.",
+    "author": "Unknown",
+    "source": null,
+    "lang": "en",
+    "note": "Widely shared as Epictetus; not found in his works.",
+    "tags": []
+  },
+  {
+    "id": "q-0105",
+    "type": "quote",
+    "text": "What is the seal of liberty attained? To be no longer ashamed of oneself.",
+    "author": "Friedrich Nietzsche",
+    "source": "The Gay Science",
+    "lang": "en",
+    "note": "Moved from the mantra list.",
+    "tags": []
+  },
+  {
+    "id": "q-0106",
+    "type": "quote",
+    "text": "The mystery of life isn’t a problem to solve, but a reality to experience.",
+    "author": "Frank Herbert",
+    "source": "Dune",
+    "lang": "en",
+    "note": "Moved from the mantra list. Often attributed to Kierkegaard.",
+    "tags": []
+  },
+  {
+    "id": "q-0107",
+    "type": "quote",
+    "text": "God, grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.",
+    "author": "Reinhold Niebuhr",
+    "source": "The Serenity Prayer",
+    "lang": "en",
+    "note": "Moved from the mantra list.",
+    "tags": []
+  },
+  {
+    "id": "q-0108",
+    "type": "quote",
+    "text": "Everything can be taken from a man but one thing: the last of the human freedoms, to choose one’s attitude in any given set of circumstances.",
+    "author": "Viktor E. Frankl",
+    "source": "Man’s Search for Meaning",
+    "lang": "en",
+    "note": "Moved from the mantra list.",
+    "tags": []
+  },
+  {
+    "id": "q-0109",
+    "type": "quote",
+    "text": "What you are not changing, you are choosing.",
+    "author": "Laurie Buchanan",
+    "source": null,
+    "lang": "en",
+    "note": "Moved from the mantra list. Attributed.",
+    "tags": []
+  },
+  {
+    "id": "q-0110",
+    "type": "quote",
+    "text": "The grass is greener where you water it.",
+    "author": "Neil Barringham",
+    "source": null,
+    "lang": "en",
+    "note": "Moved from the mantra list.",
+    "tags": []
+  },
+  {
+    "id": "q-0111",
+    "type": "quote",
+    "text": "Sufficient unto the day is the evil thereof.",
+    "author": "Gospel of Matthew",
+    "source": "Matthew 6:34",
+    "lang": "en",
+    "note": "Moved from the mantra list.",
+    "tags": []
+  },
+  {
+    "id": "q-0112",
+    "type": "quote",
+    "text": "Judge not, that ye be not judged.",
+    "author": "Gospel of Matthew",
+    "source": "Matthew 7:1",
+    "lang": "en",
+    "note": "Moved from the mantra list.",
+    "tags": []
+  },
+  {
+    "id": "q-0113",
+    "type": "quote",
+    "text": "You either die a hero, or you live long enough to see yourself become the villain.",
+    "author": "Harvey Dent",
+    "source": "The Dark Knight",
+    "lang": "en",
+    "note": "Moved from the mantra list.",
+    "tags": []
+  },
+  {
+    "id": "q-0114",
+    "type": "quote",
+    "text": "You are not the voice in your head. You are the one who is aware of it.",
+    "author": "Eckhart Tolle",
+    "source": null,
+    "lang": "en",
+    "note": "Moved from the mantra list. Paraphrase of his teaching.",
+    "tags": []
+  },
+  {
+    "id": "q-0115",
+    "type": "quote",
+    "text": "Life is a succession of good news.",
+    "author": "Bernard Ollivier",
+    "source": null,
+    "lang": "en",
+    "note": "Moved from the mantra list. Translated from French.",
+    "tags": []
   }
 ]
