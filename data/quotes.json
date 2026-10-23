@@ -1,0 +1,140 @@
+[
+  {
+    "id": "q-0001",
+    "type": "quote",
+    "text": "Man is only a reed, the weakest in nature; but he is a thinking reed.",
+    "author": "Blaise Pascal",
+    "source": "Pensées",
+    "lang": "en",
+    "tags": [
+      "greatness",
+      "fragility"
+    ]
+  },
+  {
+    "id": "q-0002",
+    "type": "quote",
+    "text": "The greatness of man is great in that he knows himself to be miserable.",
+    "author": "Blaise Pascal",
+    "source": "Pensées",
+    "lang": "en",
+    "tags": [
+      "greatness"
+    ]
+  },
+  {
+    "id": "q-0003",
+    "type": "quote",
+    "text": "Men are disturbed not by the things which happen, but by the opinions about the things.",
+    "author": "Epictetus",
+    "source": "Enchiridion",
+    "lang": "en",
+    "tags": [
+      "stoicism",
+      "calm"
+    ]
+  },
+  {
+    "id": "q-0004",
+    "type": "quote",
+    "text": "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.",
+    "author": "Epictetus",
+    "source": "Enchiridion",
+    "lang": "en",
+    "tags": [
+      "stoicism",
+      "acceptance"
+    ]
+  },
+  {
+    "id": "q-0005",
+    "type": "quote",
+    "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+    "author": "Seneca",
+    "source": "Letters to Lucilius",
+    "lang": "en",
+    "tags": [
+      "courage"
+    ]
+  },
+  {
+    "id": "q-0006",
+    "type": "quote",
+    "text": "While we are postponing, life speeds by.",
+    "author": "Seneca",
+    "source": "Letters to Lucilius",
+    "lang": "en",
+    "tags": [
+      "time",
+      "memento mori"
+    ]
+  },
+  {
+    "id": "q-0007",
+    "type": "quote",
+    "text": "Do not act as if you were going to live ten thousand years.",
+    "author": "Marcus Aurelius",
+    "source": "Meditations",
+    "lang": "en",
+    "tags": [
+      "memento mori"
+    ]
+  },
+  {
+    "id": "q-0008",
+    "type": "quote",
+    "text": "Look within. Within is the fountain of good, and it will ever bubble up, if you will ever dig.",
+    "author": "Marcus Aurelius",
+    "source": "Meditations",
+    "lang": "en",
+    "tags": [
+      "inner life"
+    ]
+  },
+  {
+    "id": "q-0009",
+    "type": "quote",
+    "text": "My formula for greatness in man is amor fati.",
+    "author": "Friedrich Nietzsche",
+    "source": "Ecce Homo",
+    "lang": "en",
+    "tags": [
+      "amor fati",
+      "greatness"
+    ]
+  },
+  {
+    "id": "q-0010",
+    "type": "quote",
+    "text": "The greatest thing in the world is to know how to belong to oneself.",
+    "author": "Michel de Montaigne",
+    "source": "Essays",
+    "lang": "en",
+    "tags": [
+      "freedom"
+    ]
+  },
+  {
+    "id": "q-0011",
+    "type": "quote",
+    "text": "Two things fill the mind with ever new and increasing admiration and awe: the starry heavens above and the moral law within.",
+    "author": "Immanuel Kant",
+    "source": "Critique of Practical Reason",
+    "lang": "en",
+    "tags": [
+      "sky",
+      "greatness"
+    ]
+  },
+  {
+    "id": "q-0012",
+    "type": "quote",
+    "text": "Those who live are those who fight.",
+    "author": "Victor Hugo",
+    "source": "Les Châtiments",
+    "lang": "en",
+    "tags": [
+      "courage"
+    ]
+  }
+]

@@ -1,0 +1,217 @@
+/* ------------------------------------------------------------
+   Locus Magnus — styles
+   Un ciel vaste, une ligne d'horizon, un texte à la fois.
+   ------------------------------------------------------------ */
+
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("fonts/cormorant-garamond-latin-300-normal.woff2") format("woff2");
+  font-weight: 300; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("fonts/cormorant-garamond-latin-300-italic.woff2") format("woff2");
+  font-weight: 300; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("fonts/cormorant-garamond-latin-400-italic.woff2") format("woff2");
+  font-weight: 400; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: "Jost";
+  src: url("fonts/jost-latin-400-normal.woff2") format("woff2");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Jost";
+  src: url("fonts/jost-latin-500-normal.woff2") format("woff2");
+  font-weight: 500; font-style: normal; font-display: swap;
+}
+
+/* Aube (thème clair) */
+:root {
+  --sky-top:    #b9c7d8;
+  --sky-low:    #eceeec;
+  --glow:       #eccfb4;
+  --ground:     #e4dfd6;
+  --ink:        #1c2540;
+  --ink-soft:   #56617b;
+  --line:       rgba(28, 37, 64, 0.28);
+
+  --serif: "Cormorant Garamond", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+  --sans:  "Jost", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+
+  --ground-height: 30svh;
+  color-scheme: light dark;
+}
+
+/* Crépuscule (thème sombre) */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --sky-top:  #0f1529;
+    --sky-low:  #2a3558;
+    --glow:     #b8917a;
+    --ground:   #0c1122;
+    --ink:      #f1ece3;
+    --ink-soft: #9ea7bd;
+    --line:     rgba(241, 236, 227, 0.32);
+  }
+}
+
+* { box-sizing: border-box; margin: 0; }
+
+html, body { height: 100%; }
+
+body {
+  background: var(--ground);
+  color: var(--ink);
+  font-family: var(--sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* ---------- Mise en page : ciel / horizon / sol ---------- */
+
+.sky {
+  min-height: 100svh;
+  display: grid;
+  grid-template-rows: auto 1fr 0 var(--ground-height);
+  background: linear-gradient(to bottom, var(--sky-top) 0%, var(--sky-low) 100%);
+  background-size: 100% calc(100% - var(--ground-height));
+  background-repeat: no-repeat;
+  padding-top: env(safe-area-inset-top);
+  overflow: hidden;
+}
+
+.masthead {
+  padding: 1.75rem 1.5rem 0;
+  text-align: center;
+}
+
+.title {
+  font-family: var(--serif);
+  font-weight: 300;
+  font-size: 1.35rem;
+  letter-spacing: 0.06em;
+}
+
+.subtitle {
+  margin-top: 0.15rem;
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 300;
+  font-size: 1rem;
+  color: var(--ink-soft);
+}
+
+/* ---------- Le texte ---------- */
+
+.entry {
+  align-self: center;
+  justify-self: center;
+  width: min(34rem, 100%);
+  padding: 2rem 1.5rem 3rem;
+  text-align: center;
+  transition: opacity 320ms ease, transform 320ms ease;
+}
+
+.entry.is-changing {
+  opacity: 0;
+  transform: translateY(6px);
+}
+
+.entry-kind {
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  color: var(--ink-soft);
+  margin-bottom: 1.25rem;
+  min-height: 1em;
+}
+
+.entry-text p {
+  font-family: var(--serif);
+  font-weight: 300;
+  font-size: clamp(1.85rem, 6.4vw, 3rem);
+  line-height: 1.18;
+  text-wrap: balance;
+  hyphens: manual;
+}
+
+.entry-author {
+  margin-top: 1.4rem;
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1.15rem;
+  color: var(--ink-soft);
+  min-height: 1.2em;
+}
+
+/* ---------- L'horizon : l'élément mémorable ---------- */
+
+.horizon {
+  position: relative;
+  height: 0;
+  border-top: 1px solid var(--line);
+}
+
+.horizon::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  width: 140vw;
+  height: 38svh;
+  transform: translateX(-50%);
+  background: radial-gradient(ellipse 50% 55% at 50% 100%, var(--glow) 0%, transparent 70%);
+  opacity: 0.55;
+  pointer-events: none;
+}
+
+/* ---------- Le sol ---------- */
+
+.ground {
+  position: relative;
+  background: var(--ground);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1.5rem 1.5rem calc(1.5rem + env(safe-area-inset-bottom));
+}
+
+.next {
+  font: 500 1rem/1 var(--sans);
+  letter-spacing: 0.04em;
+  color: var(--ink);
+  background: transparent;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 1rem 2.75rem;
+  cursor: pointer;
+  transition: border-color 200ms ease, background-color 200ms ease;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.next:hover:not(:disabled) { border-color: var(--ink); }
+.next:active:not(:disabled) { background: color-mix(in srgb, var(--ink) 8%, transparent); }
+.next:disabled { opacity: 0.4; cursor: default; }
+.next:focus-visible { outline: 2px solid var(--ink); outline-offset: 4px; }
+
+.status {
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+  min-height: 1em;
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .entry, .next { transition: none; }
+}
+
+/* Grands écrans : un peu plus d'air */
+@media (min-width: 48rem) {
+  .masthead { padding-top: 2.5rem; }
+  .title { font-size: 1.6rem; }
+}

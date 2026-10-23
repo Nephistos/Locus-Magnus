@@ -1,0 +1,63 @@
+[
+  {
+    "id": "m-0001",
+    "type": "mantra",
+    "text": "The sky never apologizes for being vast. Neither do I.",
+    "author": null,
+    "lang": "en",
+    "tags": [
+      "greatness"
+    ]
+  },
+  {
+    "id": "m-0002",
+    "type": "mantra",
+    "text": "What makes me feel small today does not define me.",
+    "author": null,
+    "lang": "en",
+    "tags": [
+      "confidence"
+    ]
+  },
+  {
+    "id": "m-0003",
+    "type": "mantra",
+    "text": "One step, then another. That is how vast places are crossed.",
+    "author": null,
+    "lang": "en",
+    "tags": [
+      "patience"
+    ]
+  },
+  {
+    "id": "m-0004",
+    "type": "mantra",
+    "text": "I am not late for my own life.",
+    "author": null,
+    "lang": "en",
+    "tags": [
+      "calm"
+    ]
+  },
+  {
+    "id": "m-0005",
+    "type": "mantra",
+    "text": "What is within my control is enough to move forward.",
+    "author": null,
+    "lang": "en",
+    "tags": [
+      "stoicism"
+    ]
+  },
+  {
+    "id": "m-0006",
+    "type": "mantra",
+    "text": "I look up. The world is wider than my day.",
+    "author": null,
+    "lang": "en",
+    "tags": [
+      "greatness",
+      "calm"
+    ]
+  }
+]

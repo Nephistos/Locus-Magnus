@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Locus Magnus</title>
+  <meta name="description" content="A big place for small days. One mantra or quote at a time.">
+
+  <!-- PWA -->
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#0f1529" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#b9c7d8" media="(prefers-color-scheme: light)">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-title" content="Locus Magnus">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+  <link rel="preload" href="fonts/cormorant-garamond-latin-300-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="sky">
+    <header class="masthead">
+      <h1 class="title">Locus Magnus</h1>
+      <p class="subtitle">A big place for small days.</p>
+    </header>
+
+    <section class="entry" aria-live="polite">
+      <p class="entry-kind" id="kind"></p>
+      <blockquote class="entry-text" id="text">
+        <p>…</p>
+      </blockquote>
+      <p class="entry-author" id="author"></p>
+    </section>
+
+    <div class="horizon" aria-hidden="true"></div>
+
+    <footer class="ground">
+      <button class="next" id="next" type="button" disabled>Next</button>
+      <p class="status" id="status"></p>
+    </footer>
+  </main>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
