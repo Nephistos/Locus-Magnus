@@ -1,7 +1,7 @@
 {
   "name": "Locus Magnus",
   "short_name": "Locus Magnus",
-  "description": "A big place for small days. One mantra or quote at a time.",
+  "description": "A big place for small days.",
   "lang": "en",
   "start_url": "./",
   "scope": "./",
