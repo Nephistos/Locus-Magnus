@@ -253,6 +253,25 @@ body {
   text-align: center;
 }
 
+/* ---------- Lien discret vers la politique de confidentialité ---------- */
+
+.privacy-link {
+  position: absolute;
+  right: 1.25rem;
+  bottom: calc(0.75rem + env(safe-area-inset-bottom));
+  height: 44px;
+  display: flex;
+  align-items: center;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  color: var(--ink-soft);
+  opacity: 0.6;
+  text-decoration: none;
+  transition: opacity 200ms ease;
+}
+.privacy-link:hover, .privacy-link:focus-visible { opacity: 1; }
+.privacy-link:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; border-radius: 4px; }
+
 @media (prefers-reduced-motion: reduce) {
   .entry, .next { transition: none; }
 }
