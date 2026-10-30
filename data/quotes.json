@@ -1111,5 +1111,24 @@
     "lang": "en",
     "note": "Moved from the mantra list. Translated from French.",
     "tags": []
+  },
+  {
+    "id": "q-0116",
+    "type": "quote",
+    "text": "Loneliness does not come from having no people around you, but from being unable to communicate the things that seem important to you.",
+    "author": "Carl Jung",
+    "source": "Memories, Dreams, Reflections",
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0117",
+    "type": "quote",
+    "text": "I did not come this far, just to come this far.",
+    "author": "Alexander the Great",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to Alexander the Great; no ancient source.",
+    "tags": []
   }
 ]
