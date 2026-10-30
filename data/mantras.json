@@ -1550,5 +1550,37 @@
     "author": null,
     "lang": "en",
     "tags": []
+  },
+    {
+    "id": "m-0198",
+    "type": "mantra",
+    "text": "Remove shame from your life.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0199",
+    "type": "mantra",
+    "text": "Those who live their dreams dance to a music only they can hear.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0200",
+    "type": "mantra",
+    "text": "You don’t know it. Yet.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0201",
+    "type": "mantra",
+    "text": "You’ll survive. But you will become someone else.",
+    "author": null,
+    "lang": "en",
+    "tags": []
   }
 ]
