@@ -1130,5 +1130,95 @@
     "lang": "en",
     "note": "Often attributed to Alexander the Great; no ancient source.",
     "tags": []
+  },
+  {
+    "id": "q-0118",
+    "type": "quote",
+    "text": "The most terrifying freedom is discovering that even your suffering is your own fault.",
+    "author": "Fyodor Dostoevsky",
+    "source": null,
+    "lang": "en",
+    "note": "Widely shared as Fyodor Dostoevsky; not found in his works.",
+    "tags": []
+  },
+  {
+    "id": "q-0119",
+    "type": "quote",
+    "text": "Look at you, comforting others with the words you wish someone had said to you.",
+    "author": "Fyodor Dostoevsky",
+    "source": null,
+    "lang": "en",
+    "note": "Widely shared as Fyodor Dostoevsky; not found in his works.",
+    "tags": []
+  },
+  {
+    "id": "q-0120",
+    "type": "quote",
+    "text": "Loving someone means giving them the power to destroy you, and trusting they won’t.",
+    "author": "Fyodor Dostoevsky",
+    "source": null,
+    "lang": "en",
+    "note": "Widely shared as Fyodor Dostoevsky; not found in his works.",
+    "tags": []
+  },
+  {
+    "id": "q-0121",
+    "type": "quote",
+    "text": "All this struggle for life, only for it to end on a random day.",
+    "author": "Fyodor Dostoevsky",
+    "source": null,
+    "lang": "en",
+    "note": "Widely shared as Fyodor Dostoevsky; not found in his works. Wording corrected.",
+    "tags": []
+  },
+  {
+    "id": "q-0122",
+    "type": "quote",
+    "text": "Two intelligent people cannot fall in love; true love needs one idiot.",
+    "author": "Fyodor Dostoevsky",
+    "source": null,
+    "lang": "en",
+    "note": "Widely shared as Fyodor Dostoevsky; not found in his works.",
+    "tags": []
+  },
+  {
+    "id": "q-0123",
+    "type": "quote",
+    "text": "I was burning, and you came to blame me for the smell of ashes.",
+    "author": "Fyodor Dostoevsky",
+    "source": null,
+    "lang": "en",
+    "note": "Widely shared as Fyodor Dostoevsky; not found in his works.",
+    "tags": []
+  },
+  {
+    "id": "q-0124",
+    "type": "quote",
+    "text": "It is not death that a man should fear, but he should fear never beginning to live.",
+    "author": "Marcus Aurelius",
+    "source": "Meditations",
+    "lang": "en",
+    "note": "Popular rendering of Meditations, Book XII.",
+    "tags": []
+  },
+  {
+    "id": "q-0125",
+    "type": "quote",
+    "text": "Before feeling nothing at all, you feel a lot.",
+    "author": "Osamu Dazai",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to Osamu Dazai; source not found.",
+    "tags": []
+  },
+  {
+    "id": "q-0126",
+    "type": "quote",
+    "text": "The highest form of peace is having no desire to be seen, validated or understood by anyone.",
+    "author": "Epictetus",
+    "source": null,
+    "lang": "en",
+    "note": "Widely shared as Epictetus; not found in his works.",
+    "tags": []
   }
 ]
