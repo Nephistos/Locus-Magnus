@@ -228,6 +228,40 @@ body {
   padding: 1.5rem 1.5rem calc(1.5rem + env(safe-area-inset-bottom));
 }
 
+/* ---------- Commandes : précédent, suivant, partager ---------- */
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+}
+
+.icon-btn {
+  width: 50px;
+  height: 50px;
+  display: grid;
+  place-items: center;
+  padding: 0;
+  color: var(--ink);
+  background: transparent;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: border-color 200ms ease, background-color 200ms ease, opacity 200ms ease;
+  -webkit-tap-highlight-color: transparent;
+}
+.icon-btn:hover:not(:disabled) { border-color: var(--ink); }
+.icon-btn:active:not(:disabled) { background: color-mix(in srgb, var(--ink) 8%, transparent); }
+.icon-btn:disabled { opacity: 0.3; cursor: default; }
+.icon-btn:focus-visible { outline: 2px solid var(--ink); outline-offset: 4px; }
+
+/* Appui long sur le texte pour le copier : pas de menu natif. */
+.entry-text {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
 .next {
   font: 500 1rem/1 var(--sans);
   letter-spacing: 0.04em;
@@ -273,7 +307,7 @@ body {
 .privacy-link:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; border-radius: 4px; }
 
 @media (prefers-reduced-motion: reduce) {
-  .entry, .next { transition: none; }
+  .entry, .next, .icon-btn { transition: none; }
 }
 
 /* Grands écrans : un peu plus d'air */
