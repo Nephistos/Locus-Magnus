@@ -1540,5 +1540,63 @@
     "lang": "en",
     "note": "Translation by F. Max Müller (1881), public domain.",
     "tags": []
+  },
+  {
+    "id": "q-0159",
+    "type": "quote",
+    "text": "Be for the most part silent, or speak merely what is necessary, and in few words.",
+    "author": "Epictetus",
+    "source": "Enchiridion",
+    "lang": "en",
+    "note": "Translated by Elizabeth Carter (1758).",
+    "tags": []
+  },
+  {
+    "id": "q-0160",
+    "type": "quote",
+    "text": "We can never obtain peace in the outer world until we make peace with ourselves.",
+    "author": "Dalai Lama",
+    "source": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "q-0161",
+    "type": "quote",
+    "text": "Do not compare, do not measure. There is no other path like yours.",
+    "author": "Carl Jung",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to Carl Jung; not found in his writings.",
+    "tags": []
+  },
+  {
+    "id": "q-0162",
+    "type": "quote",
+    "text": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+    "author": "Marcus Aurelius",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to Marcus Aurelius; not in the Meditations. His closest line is “Remember that all is opinion” (2.15).",
+    "tags": []
+  },
+  {
+    "id": "q-0163",
+    "type": "quote",
+    "text": "Life is not a problem to be solved, but a reality to be experienced.",
+    "author": "Søren Kierkegaard",
+    "source": null,
+    "lang": "en",
+    "note": "Often attributed to Søren Kierkegaard; not found in his writings.",
+    "tags": []
+  },
+  {
+    "id": "q-0164",
+    "type": "quote",
+    "text": "But we cannot simply sit and stare at our wounds forever.",
+    "author": "Haruki Murakami",
+    "source": null,
+    "lang": "en",
+    "tags": []
   }
 ]
