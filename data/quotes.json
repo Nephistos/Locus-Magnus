@@ -1598,5 +1598,65 @@
     "source": null,
     "lang": "en",
     "tags": []
+  },
+  {
+    "id": "q-0165",
+    "type": "quote",
+    "text": "Health is the greatest of gifts, contentedness the best riches; trust is the best of relationships, Nirvana the highest happiness.",
+    "author": "The Buddha",
+    "source": "Dhammapada",
+    "lang": "en",
+    "note": "Verse 204, translated by Max Müller (1881).",
+    "tags": []
+  },
+  {
+    "id": "q-0166",
+    "type": "quote",
+    "text": "Enlightenment is when a wave realizes it is the ocean.",
+    "author": "Thich Nhat Hanh",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; a paraphrase of his teaching on the wave and the water.",
+    "tags": []
+  },
+  {
+    "id": "q-0167",
+    "type": "quote",
+    "text": "To make a mistake and not correct it is to have made a second one.",
+    "author": "Confucius",
+    "source": "Analects",
+    "lang": "en",
+    "note": "Free rendering of Analects 15.30.",
+    "tags": []
+  },
+  {
+    "id": "q-0168",
+    "type": "quote",
+    "text": "Being interesting is downstream of being interested.",
+    "author": "Jimmy Carr",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; no verified source found.",
+    "tags": []
+  },
+  {
+    "id": "q-0169",
+    "type": "quote",
+    "text": "Someone told Socrates that a man had not improved at all through his travels. “I can well believe it,” he said. “He took himself along.”",
+    "author": "Socrates",
+    "source": "Montaigne, Essays I.39",
+    "lang": "en",
+    "note": "Translated from Montaigne’s French. Seneca tells the same story in Letters 28.",
+    "tags": []
+  },
+  {
+    "id": "q-0170",
+    "type": "quote",
+    "text": "Where your fear is, there is your task.",
+    "author": "Carl Jung",
+    "source": null,
+    "lang": "en",
+    "note": "Attributed; no verified source found.",
+    "tags": []
   }
 ]
