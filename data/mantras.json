@@ -1018,7 +1018,7 @@
   {
     "id": "m-0130",
     "type": "mantra",
-    "text": "Stay calm.",
+    "text": "Always be calm.",
     "author": null,
     "lang": "en",
     "tags": []
@@ -1739,6 +1739,86 @@
     "id": "m-0221",
     "type": "mantra",
     "text": "Sometimes kindness is fear’s Trojan horse.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0222",
+    "type": "mantra",
+    "text": "If your peace depends on everything going right, it isn’t peace, it’s control. Staying steady in uncertainty is real growth.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0223",
+    "type": "mantra",
+    "text": "Don’t pack a bag for a trip your mind is taking.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0224",
+    "type": "mantra",
+    "text": "When life shakes you, whatever you’re carrying spills out. What are you carrying in your cup today?",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0225",
+    "type": "mantra",
+    "text": "What’s behind you built you. It doesn’t get to keep you. Take the lesson, and drive.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0226",
+    "type": "mantra",
+    "text": "Keep moving, and you will surely meet your luck.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0227",
+    "type": "mantra",
+    "text": "The potential you see in others isn’t real. It’s what you would do in their place.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0228",
+    "type": "mantra",
+    "text": "Dearest, I beg of you: sleep properly and go for walks.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0229",
+    "type": "mantra",
+    "text": "Live in the what is, not in the what if.",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0230",
+    "type": "mantra",
+    "text": "Read a hundred books on happiness and change nothing in your life: will you be any happier?",
+    "author": null,
+    "lang": "en",
+    "tags": []
+  },
+  {
+    "id": "m-0231",
+    "type": "mantra",
+    "text": "Not everything needs to be fixed right away.",
     "author": null,
     "lang": "en",
     "tags": []
